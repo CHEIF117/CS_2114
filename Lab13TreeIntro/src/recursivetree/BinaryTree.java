@@ -11,7 +11,7 @@ package recursivetree;
  *            Created by: John Lewis (lewis63) and Stephen Edwards (stedwar2)
  *            Revised (2015.04.30) by: Megan Rigsbee (mrigsbee)
  * 
- * @author <Gunnar Nelson> <905956285>
+ * @author <Gunnar Nelson> <>
  * @version <2020-25-04>
  */
 public class BinaryTree<T> {
